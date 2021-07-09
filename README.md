@@ -4,7 +4,7 @@ swc node binding use wasm
 ### Build
 
 ```shell
-$ wasm-pack build # build wasm
+$ wasm-pack build # build wasm, make sure you switched rustup to the nightly version or you will get an error
 $ yarn build # build node
 ```
 
